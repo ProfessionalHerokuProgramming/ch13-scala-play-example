@@ -1,0 +1,10 @@
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module 
+      fileurl="file://$PROJECT_DIR$/.idea_modules/scala-play-example-build.iml" filepath="$PROJECT_DIR$/.idea_modules/scala-play-example-build.iml" >
+</module>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/scala-play-example.iml" filepath="$PROJECT_DIR$/.idea_modules/scala-play-example.iml" ></module>
+    </modules>
+  </component>
+</project>
